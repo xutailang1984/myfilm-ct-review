@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+work/
+outputs/
+*.dcm
+*.dicom
+*.zip
+*.npy
+*.npz
+*.nrrd
+*.nii
+*.nii.gz
+.env
+.env.*
